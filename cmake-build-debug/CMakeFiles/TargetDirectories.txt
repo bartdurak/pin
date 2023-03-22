@@ -1,0 +1,3 @@
+/home/fed36/CLionProjects/pin/cmake-build-debug/CMakeFiles/pin.dir
+/home/fed36/CLionProjects/pin/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/fed36/CLionProjects/pin/cmake-build-debug/CMakeFiles/rebuild_cache.dir
